@@ -9,7 +9,8 @@ For this assignment : set up the environment and processing testing
 
 # Completed Tasks
 - [x] Environment Setup: Downloaded and installed Processing (Version 4.5.6) IDE.
-- [x] Code Execution: Opened ‘hwe.pde' and executed the code in the Processing environment.- Ix] Output Verification: Confirmed rendering of the rotating cube and surrounding sphere
+- [x] Code Execution: Opened ‘hwe.pde' and executed the code in the Processing environment.
+- [x] Output Verification: Confirmed rendering of the rotating cube and surrounding sphere
 the display window.
 - [x] Customization / Experiments: change the color of background/box/sphere
       
