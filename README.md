@@ -4,7 +4,7 @@
 - **Name:** 陳欣艷Sherin
 - **Student ID:** 115502902
   
-# Sherin Homework - Labe
+# Sherin Homework - Lab0
 For this assignment : set up the environment and processing testing
 
 # Completed Tasks
